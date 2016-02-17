@@ -1,4 +1,4 @@
-# ExtractLargeText
+# Extract Text
 Tool for extracting text specific sizes of an input file and generate an output file
 
 -- In terminal, execute:
